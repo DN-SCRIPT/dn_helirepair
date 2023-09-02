@@ -12,9 +12,13 @@
 [ESX/FREE]
 
 1 . You can add helicopter repair system as much you need [ x, y , z]
+
 2 . Optimised script 
+
 3 . repair price's are Customizable
+
 4 . Customisable
+
 5 . active development
 
  **Many updates planned and suggestions being actively implemented!** 🚁
@@ -24,11 +28,16 @@
  ------------------
 
  1.  DN NOTIFY  - https://github.com/DN-SCRIPT/dn_notify
- 2.  OkokTextUi (optional)
- 3.  ESX textui 
- 4.  progressbar & Notify - https://forum.cfx.re/t/release-progress-bars-1-0-standalone/526287
- 5.  ox_lib  - https://github.com/overextended/ox_lib
- 6.  interact-sounds  
+ 2.  
+ 3.  OkokTextUi (optional)
+ 4.  
+ 5.  ESX textui
+ 6.  
+ 7.  progressbar & Notify - https://forum.cfx.re/t/release-progress-bars-1-0-standalone/526287
+ 8.  
+ 9.  ox_lib  - https://github.com/overextended/ox_lib
+ 10.  
+ 11.  interact-sounds  
 
 
 
@@ -44,6 +53,7 @@
 -----------------------
 
 1 . GITHUB - 
+
 2 . TEBEX - https://dn-script.tebex.io/package/5888998
 
 
