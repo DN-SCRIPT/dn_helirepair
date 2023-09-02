@@ -49,7 +49,7 @@
 
 1 . PREVIEW  - https://youtu.be/_wSpNzpOeuo?si=Stim3NPQDBE4P0o4
 
-# DN VEHICLE REPAIR 🚁
+# DN HELICOPTER REPAIR 🚁
 -----------------------
 
 1 . GITHUB - https://github.com/DN-SCRIPT/dn_helirepair
