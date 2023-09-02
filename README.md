@@ -28,16 +28,16 @@
  ------------------
 
  1.  DN NOTIFY  - https://github.com/DN-SCRIPT/dn_notify
- 2.  
- 3.  OkokTextUi (optional)
- 4.  
- 5.  ESX textui
- 6.  
- 7.  progressbar & Notify - https://forum.cfx.re/t/release-progress-bars-1-0-standalone/526287
- 8.  
- 9.  ox_lib  - https://github.com/overextended/ox_lib
- 10.  
- 11.  interact-sounds  
+
+ 2.  OkokTextUi (optional)
+   
+ 3.  ESX textui
+   
+ 4.  progressbar & Notify - https://forum.cfx.re/t/release-progress-bars-1-0-standalone/526287
+   
+ 5.  ox_lib  - https://github.com/overextended/ox_lib
+   
+ 6.  interact-sounds  
 
 
 
