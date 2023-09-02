@@ -52,7 +52,7 @@
 # DN VEHICLE REPAIR 🚁
 -----------------------
 
-1 . GITHUB - 
+1 . GITHUB - https://github.com/DN-SCRIPT/dn_helirepair
 
 2 . TEBEX - https://dn-script.tebex.io/package/5888998
 
